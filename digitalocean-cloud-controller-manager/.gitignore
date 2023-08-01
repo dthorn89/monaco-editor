@@ -1,0 +1,8 @@
+# binaries
+/digitalocean-cloud-controller-manager
+
+# generated kubernetes manifests
+generated-secret.yml
+
+# generated e2e artifacts
+e2e/kubeconfig-e2e.*
